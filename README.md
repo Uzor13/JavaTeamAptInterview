@@ -1,3 +1,3 @@
 # JavaTeamAptInterview
 
-This reop was used for the TeamAptInterview
+This repo was used for the TeamApt Technical Interview
